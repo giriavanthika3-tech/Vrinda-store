@@ -1,0 +1,1 @@
+The Vrinda Store dataset is a popular e-commerce and retail dataset containing around 31,000 transaction records (typically from 2022). It represents an Indian clothing and fashion retail store that sells its products across multiple modern sales channels.
